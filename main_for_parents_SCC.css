@@ -1,0 +1,239 @@
+body{
+    background-image: url(images/backgorund%204.jpg);
+    width: 1100px;
+    height: auto;
+    margin: auto;
+}
+.wrapper{
+    width: 1100px ;
+    height: 80% ;
+    margin: auto ;
+}
+.body_img{
+    width: 1100px;
+    height: auto ;
+}
+.shapka {
+    width: 100% ;
+    height: 100%;
+}
+
+.nav {
+    margin-top: -23px;
+    position: relative;
+    width: 1100px ;
+    max-height: 8.5% ;
+    height: 60px ;
+    text-align: center;
+}
+.main_str{
+    position: absolute;
+    display: block;
+    border-top-right-radius: 30px;
+    background-color: #d3c784;
+    left: 0% ;
+    width: 159px;
+    height: 100%;
+}
+.main_str_text{
+    position: absolute;
+    top: 15px;
+    left: 30%;
+    color: black;
+    font-size:18px;
+    text-align: center;
+    font-size: 1wv;
+}
+
+.main_o_sebe{
+    position: absolute;
+    left: 14.3% ;
+    text-align: center;
+    font-size: 1wv;
+    width: 159px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #6fb5c2;
+}
+.main_o_sebe_text{
+    position: absolute;
+    top: 15px;
+    font-size:18px;
+    left: 35%;
+    color: black;
+}
+
+.main_metod_bank{
+    position: absolute;
+    left: 28.6% ; 
+    width: 159px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #696dd7;
+
+}
+.main_metod_bank_text{
+    position: absolute;
+    top: 8px;
+    left: 0%;
+    font-size:18px;
+    color: black;
+    
+}
+
+.main_for_parents{
+    position: absolute;
+    left: 42.9% ;
+    width: 10% ; 
+    width: 159px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #9f64cf;
+
+}
+.main_for_parents_text{
+    position: absolute;
+    top: 15px;
+    left: 1%;
+    color: black;
+    text-align: center;
+    font-size:18px;
+    text-decoration: bold;
+}
+
+.main_info{
+    position: absolute;
+    left: 57.2% ;
+    width: 10% ; 
+    width: 159px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #cf9264;
+}
+.main_info_text{
+    position: absolute;
+    top: 15px;
+    font-size:18px;
+    left: 15%;
+    color: black;
+    text-align: center;
+    margin: 1%;
+}
+
+.main_gallery{
+    position: absolute;
+    left: 71.5% ;
+    width: 10% ; 
+    width: 159px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #cfbc64;
+}
+.main_gallery_text{
+    position: absolute;
+    top: 15px;
+    font-size:18px;
+    left: 28%;
+    color: black;
+    text-align: center;
+    
+}
+
+.main_electronic_journal{
+    position: absolute;
+    left: 85.8% ;
+    width: 10% ; 
+    width: 155px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    background-color: #cf7064;
+}
+.main_electronic_journal_text{
+    position: absolute;
+    top: 10px;
+    font-size:18px;
+    left: 5%;
+    color: black;
+    text-align: center;
+}
+
+.content{
+    color: white;
+    text-align: center;
+    position: absolute;
+    width: 1100px;
+    max-width: 100% ;
+    height: 540px ;
+    max-height: 1400% ;
+    
+    background-image: url(images/backgorund%206.jpg);
+}
+.content_img{
+    margin-top: -5px;
+    width: 1100px;
+    height: 40% ;
+    top: 60%;
+}
+.table_info{
+    margin: 0 auto;
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: -3px;
+    color: white;
+    border: 6px solid white;
+    border-radius: 5px; 
+}
+.table_head{
+    background: white;
+    color: black;
+    padding: 5px;
+    font-size: 28px;
+}
+.table_str{
+    background: white;
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+}
+.key{
+    margin-left: 30%;
+    width: 40px;
+    height: auto;
+}
+.main_footer {
+    clear: both;
+    position: absolute;
+    text-align: center;
+    background-color: #393939;
+    top: 540px;
+}
+.main_footer_info{
+    position: absolute;
+    width: 1100px ;
+    max-height: 10% ;
+    height: 60px ;
+    background-color: #393939;
+}
+.footer_vk{
+    position: relative;
+    height: auto ;
+    width: 15% ;
+    height: 50px ;
+}
+.footer_vk_span{
+    margin-left: 7.5% ;
+    color: white;
+    text-align: center ;
+}
+.footer_mail{
+    position: relative;
+    height: 50px;
+    left: 0%;
+    width: 15% ;
+}
+.footer_mail_span{
+    margin-left: 7.5%;
+    color: white;
+    text-align: center;  
+}
